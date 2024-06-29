@@ -1,0 +1,3 @@
+[28-Jun-2024 21:10:44 UTC] PHP Warning:  Attempt to read property "public" on null in /home1/sottop40/public_html/aparecaevendamais.com/wp-content/mu-plugins/endurance-page-cache.php on line 544
+[28-Jun-2024 21:10:44 UTC] PHP Warning:  Attempt to read property "public" on null in /home1/sottop40/public_html/aparecaevendamais.com/wp-content/plugins/wp-plugin-hostgator/vendor/newfold-labs/wp-module-data/includes/Listeners/Content.php on line 41
+[29-Jun-2024 16:10:58 UTC] PHP Warning:  Undefined array key "status" in /home1/sottop40/public_html/aparecaevendamais.com/wp-content/plugins/post-smtp/Postman/PostmanEmailLogs.php on line 320
